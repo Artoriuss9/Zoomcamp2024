@@ -1,5 +1,7 @@
 # Zoomcamp2024
+
 ##Homework3
+
 CREATE OR REPLACE EXTERNAL TABLE `ecstatic-router-41030.green_data.data2022`
 OPTIONS (
   format = 'parquet',
